@@ -1,1 +1,49 @@
-the file
+# environments / backgrounds
+background_forest_day
+background_forest_night
+background_city_day
+background_city_night
+background_room_interior
+
+# tiles
+grass_tile
+dirt_tile
+stone_tile
+wood_floor_tile
+
+# platforms & obstacles
+wooden_platform
+stone_platform
+spike_obstacle
+spring_platform
+
+# player sprites (sprite sheet)
+player_idle
+player_run
+player_jump
+player_fall
+
+# enemies (sprite sheet)
+enemy_idle
+enemy_walk
+enemy_attack
+
+# items
+coin
+health_potion
+key
+dust_item
+
+# UI
+heart_icon
+dust_icon
+inventory_box
+progress_bar
+
+# others
+tree
+flower
+rock
+bush
+fence
+cloud
